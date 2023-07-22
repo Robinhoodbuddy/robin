@@ -1,0 +1,12 @@
+[
+    ["Apple is looking at buying U.K. startup for $1 billion", {"entities": [[0, 5, "ORG"], [31, 35, "GPE"], [44, 55, "MONEY"]]}],
+    ["President Joe Biden will give a speech tomorrow", {"entities": [[0, 18, "PERSON"], [35, 42, "DATE"]]}],
+    ["What is Django?", {"entities": [[12, 18, "FRAMEWORK"]]}],
+    ["How do I create a Django project?", {"entities": [[21, 27, "COMMAND"], [28, 35, "Django"]]}],
+    ["What is Python?", {"entities": [[12, 18, "LANGUAGE"]]}],
+    ["How do I create a virtual environment?", {"entities": [[21, 36, "COMMAND"], [37, 56, "Python"]]}],
+    ["What is a Django view?", {"entities": [[12, 18, "Django"], [19, 23, "VIEW"]]}],
+    ["How do I define a URL pattern?", {"entities": [[21, 27, "COMMAND"], [28, 33, "Django"], [34, 39, "URL_PATTERN"]]}],
+    ["What is a Django template?", {"entities": [[12, 18, "Django"], [19, 27, "TEMPLATE"]]}],
+    ["How do I use a Django form?", {"entities": [[21, 27, "COMMAND"], [28, 33, "Django"], [34, 37, "FORM"]]}]
+]

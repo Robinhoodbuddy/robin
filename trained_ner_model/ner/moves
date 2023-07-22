@@ -1,0 +1,344 @@
+Å´transitions⁄[
+  {
+    "clas": 0,
+    "move": 1,
+    "label": "ORG",
+    "name": "B-ORG"
+  },
+  {
+    "clas": 1,
+    "move": 2,
+    "label": "ORG",
+    "name": "I-ORG"
+  },
+  {
+    "clas": 2,
+    "move": 3,
+    "label": "ORG",
+    "name": "L-ORG"
+  },
+  {
+    "clas": 3,
+    "move": 4,
+    "label": "ORG",
+    "name": "U-ORG"
+  },
+  {
+    "clas": 4,
+    "move": 1,
+    "label": "GPE",
+    "name": "B-GPE"
+  },
+  {
+    "clas": 5,
+    "move": 2,
+    "label": "GPE",
+    "name": "I-GPE"
+  },
+  {
+    "clas": 6,
+    "move": 3,
+    "label": "GPE",
+    "name": "L-GPE"
+  },
+  {
+    "clas": 7,
+    "move": 4,
+    "label": "GPE",
+    "name": "U-GPE"
+  },
+  {
+    "clas": 8,
+    "move": 1,
+    "label": "MONEY",
+    "name": "B-MONEY"
+  },
+  {
+    "clas": 9,
+    "move": 2,
+    "label": "MONEY",
+    "name": "I-MONEY"
+  },
+  {
+    "clas": 10,
+    "move": 3,
+    "label": "MONEY",
+    "name": "L-MONEY"
+  },
+  {
+    "clas": 11,
+    "move": 4,
+    "label": "MONEY",
+    "name": "U-MONEY"
+  },
+  {
+    "clas": 12,
+    "move": 1,
+    "label": "PERSON",
+    "name": "B-PERSON"
+  },
+  {
+    "clas": 13,
+    "move": 2,
+    "label": "PERSON",
+    "name": "I-PERSON"
+  },
+  {
+    "clas": 14,
+    "move": 3,
+    "label": "PERSON",
+    "name": "L-PERSON"
+  },
+  {
+    "clas": 15,
+    "move": 4,
+    "label": "PERSON",
+    "name": "U-PERSON"
+  },
+  {
+    "clas": 16,
+    "move": 1,
+    "label": "DATE",
+    "name": "B-DATE"
+  },
+  {
+    "clas": 17,
+    "move": 2,
+    "label": "DATE",
+    "name": "I-DATE"
+  },
+  {
+    "clas": 18,
+    "move": 3,
+    "label": "DATE",
+    "name": "L-DATE"
+  },
+  {
+    "clas": 19,
+    "move": 4,
+    "label": "DATE",
+    "name": "U-DATE"
+  },
+  {
+    "clas": 20,
+    "move": 1,
+    "label": "FRAMEWORK",
+    "name": "B-FRAMEWORK"
+  },
+  {
+    "clas": 21,
+    "move": 2,
+    "label": "FRAMEWORK",
+    "name": "I-FRAMEWORK"
+  },
+  {
+    "clas": 22,
+    "move": 3,
+    "label": "FRAMEWORK",
+    "name": "L-FRAMEWORK"
+  },
+  {
+    "clas": 23,
+    "move": 4,
+    "label": "FRAMEWORK",
+    "name": "U-FRAMEWORK"
+  },
+  {
+    "clas": 24,
+    "move": 1,
+    "label": "COMMAND",
+    "name": "B-COMMAND"
+  },
+  {
+    "clas": 25,
+    "move": 2,
+    "label": "COMMAND",
+    "name": "I-COMMAND"
+  },
+  {
+    "clas": 26,
+    "move": 3,
+    "label": "COMMAND",
+    "name": "L-COMMAND"
+  },
+  {
+    "clas": 27,
+    "move": 4,
+    "label": "COMMAND",
+    "name": "U-COMMAND"
+  },
+  {
+    "clas": 28,
+    "move": 1,
+    "label": "Django",
+    "name": "B-Django"
+  },
+  {
+    "clas": 29,
+    "move": 2,
+    "label": "Django",
+    "name": "I-Django"
+  },
+  {
+    "clas": 30,
+    "move": 3,
+    "label": "Django",
+    "name": "L-Django"
+  },
+  {
+    "clas": 31,
+    "move": 4,
+    "label": "Django",
+    "name": "U-Django"
+  },
+  {
+    "clas": 32,
+    "move": 1,
+    "label": "LANGUAGE",
+    "name": "B-LANGUAGE"
+  },
+  {
+    "clas": 33,
+    "move": 2,
+    "label": "LANGUAGE",
+    "name": "I-LANGUAGE"
+  },
+  {
+    "clas": 34,
+    "move": 3,
+    "label": "LANGUAGE",
+    "name": "L-LANGUAGE"
+  },
+  {
+    "clas": 35,
+    "move": 4,
+    "label": "LANGUAGE",
+    "name": "U-LANGUAGE"
+  },
+  {
+    "clas": 36,
+    "move": 1,
+    "label": "Python",
+    "name": "B-Python"
+  },
+  {
+    "clas": 37,
+    "move": 2,
+    "label": "Python",
+    "name": "I-Python"
+  },
+  {
+    "clas": 38,
+    "move": 3,
+    "label": "Python",
+    "name": "L-Python"
+  },
+  {
+    "clas": 39,
+    "move": 4,
+    "label": "Python",
+    "name": "U-Python"
+  },
+  {
+    "clas": 40,
+    "move": 1,
+    "label": "VIEW",
+    "name": "B-VIEW"
+  },
+  {
+    "clas": 41,
+    "move": 2,
+    "label": "VIEW",
+    "name": "I-VIEW"
+  },
+  {
+    "clas": 42,
+    "move": 3,
+    "label": "VIEW",
+    "name": "L-VIEW"
+  },
+  {
+    "clas": 43,
+    "move": 4,
+    "label": "VIEW",
+    "name": "U-VIEW"
+  },
+  {
+    "clas": 44,
+    "move": 1,
+    "label": "URL_PATTERN",
+    "name": "B-URL_PATTERN"
+  },
+  {
+    "clas": 45,
+    "move": 2,
+    "label": "URL_PATTERN",
+    "name": "I-URL_PATTERN"
+  },
+  {
+    "clas": 46,
+    "move": 3,
+    "label": "URL_PATTERN",
+    "name": "L-URL_PATTERN"
+  },
+  {
+    "clas": 47,
+    "move": 4,
+    "label": "URL_PATTERN",
+    "name": "U-URL_PATTERN"
+  },
+  {
+    "clas": 48,
+    "move": 1,
+    "label": "TEMPLATE",
+    "name": "B-TEMPLATE"
+  },
+  {
+    "clas": 49,
+    "move": 2,
+    "label": "TEMPLATE",
+    "name": "I-TEMPLATE"
+  },
+  {
+    "clas": 50,
+    "move": 3,
+    "label": "TEMPLATE",
+    "name": "L-TEMPLATE"
+  },
+  {
+    "clas": 51,
+    "move": 4,
+    "label": "TEMPLATE",
+    "name": "U-TEMPLATE"
+  },
+  {
+    "clas": 52,
+    "move": 1,
+    "label": "FORM",
+    "name": "B-FORM"
+  },
+  {
+    "clas": 53,
+    "move": 2,
+    "label": "FORM",
+    "name": "I-FORM"
+  },
+  {
+    "clas": 54,
+    "move": 3,
+    "label": "FORM",
+    "name": "L-FORM"
+  },
+  {
+    "clas": 55,
+    "move": 4,
+    "label": "FORM",
+    "name": "U-FORM"
+  },
+  {
+    "clas": 56,
+    "move": 5,
+    "label": "",
+    "name": "O"
+  }
+]

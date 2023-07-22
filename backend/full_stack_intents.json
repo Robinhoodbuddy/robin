@@ -1,0 +1,218 @@
+[
+    {
+        "query": "How do I create a Django project?",
+        "intent": "create_project"
+    },
+    {
+        "query": "Can you guide me on setting up a Django project?",
+        "intent": "create_project"
+    },
+    {
+        "query": "What are the steps to start a new Django project?",
+        "intent": "create_project"
+    },
+    {
+        "query": "How can I create a new app in Django?",
+        "intent": "create_app"
+    },
+    {
+        "query": "What's the process of adding a new app in Django?",
+        "intent": "create_app"
+    },
+    {
+        "query": "I want to start a new Django app, any tips?",
+        "intent": "create_app"
+    },
+    {
+        "query": "How do I define a model in Django?",
+        "intent": "define_model"
+    },
+    {
+        "query": "Can you explain the syntax for creating a model in Django?",
+        "intent": "define_model"
+    },
+    {
+        "query": "What's the best way to create a model in Django?",
+        "intent": "define_model"
+    },
+    {
+        "query": "How do I implement user authentication in Django?",
+        "intent": "implement_authentication"
+    },
+    {
+        "query": "What are the options for adding authentication in Django?",
+        "intent": "implement_authentication"
+    },
+    {
+        "query": "I need to secure my Django app, how can I do that?",
+        "intent": "implement_authentication"
+    },
+    {
+        "query": "How can I handle form submissions in Django?",
+        "intent": "handle_forms"
+    },
+    {
+        "query": "What's the process of validating forms in Django?",
+        "intent": "handle_forms"
+    },
+    {
+        "query": "Any tips on handling forms in Django?",
+        "intent": "handle_forms"
+    },
+    {
+        "query": "How do I perform database migrations in Django?",
+        "intent": "database_migrations"
+    },
+    {
+        "query": "Can you guide me on managing database changes in Django?",
+        "intent": "database_migrations"
+    },
+    {
+        "query": "What are the best practices for database migrations in Django?",
+        "intent": "database_migrations"
+    },
+    {
+        "query": "How do I deploy a Django project on a server?",
+        "intent": "deploy_django_project"
+    },
+    {
+        "query": "Can you explain the process of deploying a Django app on Heroku?",
+        "intent": "deploy_django_project"
+    },
+    {
+        "query": "What are the steps to deploy a Django project on AWS?",
+        "intent": "deploy_django_project"
+    },
+    {
+        "query": "How do I handle user authentication in a React app?",
+        "intent": "react_authentication"
+    },
+    {
+        "query": "What's the best library for implementing authentication in React?",
+        "intent": "react_authentication"
+    },
+    {
+        "query": "How can I use Redux for managing state in my React app?",
+        "intent": "react_redux"
+    },
+    {
+        "query": "What's the role of React Router in a React application?",
+        "intent": "react_router"
+    },
+    {
+        "query": "How can I make API calls from my React app?",
+        "intent": "react_api_calls"
+    },
+    {
+        "query": "What's the recommended way to handle forms in React?",
+        "intent": "react_forms"
+    },
+    {
+        "query": "How do I create a new database table in Django?",
+        "intent": "create_database_table"
+    },
+    {
+        "query": "What's the process of adding a new field to a Django model?",
+        "intent": "add_field_to_model"
+    },
+    {
+        "query": "How can I use Django REST framework for building APIs?",
+        "intent": "django_rest_framework"
+    },
+    {
+        "query": "What are the key features of Python?",
+        "intent": "python_features"
+    },
+    {
+        "query": "How do I declare a variable in Python?",
+        "intent": "python_variables"
+    },
+    {
+        "query": "Can you explain Python data types?",
+        "intent": "python_data_types"
+    },
+    {
+        "query": "What is a Python function?",
+        "intent": "python_functions"
+    },
+    {
+        "query": "How do I create a list in Python?",
+        "intent": "python_lists"
+    },
+    {
+        "query": "What are Python dictionaries used for?",
+        "intent": "python_dictionaries"
+    },
+    {
+        "query": "How can I use loops in Python?",
+        "intent": "python_loops"
+    },
+    {
+        "query": "What is the purpose of HTML in web development?",
+        "intent": "html_purpose"
+    },
+    {
+        "query": "How do I create a new HTML file?",
+        "intent": "html_create_file"
+    },
+    {
+        "query": "Can you explain the role of HTML tags?",
+        "intent": "html_tags"
+    },
+    {
+        "query": "What are the key features of CSS?",
+        "intent": "css_features"
+    },
+    {
+        "query": "How can I apply CSS styles to HTML elements?",
+        "intent": "css_apply_styles"
+    },
+    {
+        "query": "What is the purpose of Bootstrap in web development?",
+        "intent": "bootstrap_purpose"
+    },
+    {
+        "query": "How do I use Bootstrap classes to style my web page?",
+        "intent": "bootstrap_classes"
+    },
+    {
+        "query": "What is JSON and how is it used?",
+        "intent": "json_usage"
+    },
+    {
+        "query": "How can I parse JSON data in Python?",
+        "intent": "json_python"
+    },
+    {
+        "query": "What are the key features of JavaScript?",
+        "intent": "javascript_features"
+    },
+    {
+        "query": "How do I declare a JavaScript variable?",
+        "intent": "javascript_variables"
+    },
+    {
+        "query": "Can you explain JavaScript functions?",
+        "intent": "javascript_functions"
+    },
+    {
+        "query": "What is the role of databases in web development?",
+        "intent": "database_role"
+    },
+    {
+        "query": "How do I create a new database in MySQL?",
+        "intent": "mysql_create_database"
+    },
+    {
+        "query": "What are the different types of SQL queries?",
+        "intent": "sql_query_types"
+    },
+    {
+        "query": "How can I connect to a PostgreSQL database using Python?",
+        "intent": "python_postgresql_connection"
+    },
+    {
+        "query": "What are the key concepts of MongoDB?",
+        "intent": "mongodb_key_concepts"
+    }
+]
