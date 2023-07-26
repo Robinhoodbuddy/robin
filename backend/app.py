@@ -73,5 +73,23 @@ def github_issues():
     issues_list = get_github_issues(owner, repo_name, token)
     return jsonify(issues_list)
 
+# Welcome message route
+@app.route('/')
+def welcome_message():
+    return """
+    Thank you for visiting the Chatbot Website! This website features a simple chatbot that you can interact with. Feel
+    free to ask any questions or engage in a conversation with the chatbot. It is designed to provide helpful responses
+    and engage in various discussions.
+
+    You can start by typing your question or message in the chatbox, and the chatbot will respond accordingly. If you
+    have any specific topics you'd like to explore or if there's anything you'd like to learn more about, feel free to
+    ask.
+
+    Please keep in mind that this chatbot is designed for demonstration purposes and may have limitations in its
+    capabilities. If you encounter any issues or have suggestions for improvement, don't hesitate to let us know.
+
+    Enjoy your experience with the Chatbot Website, and have a great time chatting with our AI assistant!
+    """
+
 if __name__ == '__main__':
     app.run(debug=config.getboolean('general', 'debug'), port=config.getint('general', 'port'))
